@@ -1,7 +1,5 @@
 #define BLYNK_PRINT Serial
-
 #define BLYNK_USE_DIRECT_CONNECT
-
 #include <BlynkSimpleEsp32_BLE.h>
 #include <BLEDevice.h>
 #include <BLEServer.h>
